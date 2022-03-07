@@ -66,36 +66,36 @@
                     <div class="col-sm-4">
                         <div class="card align-items-center justify-content-center py-5">
                             <div class="card-block text-center mx-5">
-                                <h4 class="card-title">Profil</h4>
+                                <h4 class="card-title">Dokumen</h4>
                             </div>
                             <div class="card-block">
                                 <span class="badge bg-danger">*Lengkap</span>
                             </div>
-                            <a class="stretched-link" href="/profile"></a>
+                            <a class="stretched-link" href="/doc"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-4">
                         <div class="card align-items-center justify-content-center py-5">
                             <div class="card-block text-center mx-5">
-                                <h4 class="card-title">Profil</h4>
+                                <h4 class="card-title">Status Pendaftaran</h4>
                             </div>
                             <div class="card-block">
                                 <span class="badge bg-danger">*Lengkap</span>
                             </div>
-                            <a class="stretched-link" href="/profile"></a>
+                            <a class="stretched-link" href="/status"></a>
                         </div>
                     </div>
 
                     <div class="col-sm-4">
                         <div class="card align-items-center justify-content-center py-5">
                             <div class="card-block text-center mx-5">
-                                <h4 class="card-title">Profil</h4>
+                                <h4 class="card-title">Pengajuan Pendaftaran</h4>
                             </div>
                             <div class="card-block">
                                 <span class="badge bg-danger">*Lengkap</span>
                             </div>
-                            <a class="stretched-link" href="/profile"></a>
+                            <a class="stretched-link" href="/pengajuan"></a>
                         </div>
                     </div>
                 </div>
